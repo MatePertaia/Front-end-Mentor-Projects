@@ -1,0 +1,126 @@
+body { 
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+* {
+    font-family: "Outfit", sans-serif;
+}
+
+.cnt {
+    background-color: hsl(216, 50%, 16%);
+    width: 350px;
+    height: 600px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.pth {
+    width: 350px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ph {
+    border-radius: 8px;
+    width: 310px;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.txt1 {
+    width: 350px;
+    height: 30px;
+}
+
+#txt1 {
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+
+.txt2 {
+    width: 310px;
+    height: 50px;
+}
+
+#txt2 {
+    color: grey;
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+.mta {
+    width: 350px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.first {
+    width: 175px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#ss {
+    color: hsl(178, 100%, 50%) ;
+}
+
+#imga {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.second {
+    width: 175px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#cl {
+    color: grey;
+}
+
+#clocker {
+    margin-left: 50px;
+    margin-right: 5px;
+}
+
+hr {
+    width: 310px;
+    border-color: grey;
+}
+
+.pfp {
+    width: 350px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+#pfp {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px white solid;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#tet2 {
+    color: white;
+}
+
+#tet {
+    color: grey;
+}
