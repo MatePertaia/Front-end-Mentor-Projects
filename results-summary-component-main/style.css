@@ -98,3 +98,203 @@ body {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+
+.sec {
+    background-color: white;   
+}
+
+#txt8 {
+    margin-left: 25px;
+    font-size: larger;
+    margin-top: 30px;
+}
+
+.can {
+    background-color: rgba(170, 8, 8, 0.099);
+    width: 250px;
+    height: 55px;
+    border-radius: 10px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: row; 
+}
+
+#txt9 {
+    color: brown;
+    display: inline;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: 10px;
+    padding-top: 7px;
+    
+}
+
+#img1 {
+    margin-right: 5px;
+}
+
+#txt10 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: -5px;
+    margin-left: 5px;
+    padding-top: 7px;
+    
+}
+
+.span {
+    color: grey;
+}
+
+#images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+
+ .can1 {
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color: rgba(255, 255, 10, 0.141);
+    width: 250px;
+    height: 55px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#image1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#second1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#img2 {
+    margin-right: 5px;
+}
+
+#txt11 {
+  color: rgba(179, 179, 8, 0.76);
+  margin-right: 75px;
+}
+
+.can3 {
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color: rgba(104, 193, 110, 0.184);
+    width: 250px;
+    height: 55px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+#second2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#image2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#in {
+    display: inline; 
+    margin-right: 25px;
+    color: rgba(77, 180, 77, 0.663);
+     
+}
+
+#in1 {
+    margin-left: 35px;
+}
+
+#img3 {
+    margin-right: 5px;
+}
+
+
+.can4 {
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color: rgba(53, 53, 196, 0.219);
+    width: 250px;
+    height: 55px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+} 
+
+.image3 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+.second3 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 125px;
+}
+
+#visual {
+
+    display: inline;
+    margin-right: 30px;
+}
+
+#img4 {
+
+    margin-right: 5px;
+}
+
+#button {
+    font-size: larger;
+    color: white;
+    background-color: hsl(224, 30%, 27%);
+    width: 250px;
+    height: 60px;
+    margin-top: 40px;
+    margin-left: 30px;
+    border-radius: 50px;
+    border : none ;
+}
