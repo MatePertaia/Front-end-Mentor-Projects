@@ -1,0 +1,115 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(233, 47%, 7%);
+    height: 100vh;
+}
+
+* {
+    font-family: "Outfit", sans-serif;
+}
+
+
+.cont {
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: white;
+    height: 420px;
+    width: 900px;
+    display: flex;
+    background-color: hsl(244, 38%, 16%);
+    
+    
+}
+
+.first {
+    height: 420px;
+    width: 450px;
+    margin-left: 40px;
+}
+
+#p1 {
+    
+    color: white;
+    font-size: 40px;
+}
+
+#nin {
+    margin-top: 50px;
+}
+
+#sp1 {
+    color: hsl(277, 52%, 43%);
+}
+
+#p2 {
+    margin-top: -35px;
+}
+
+.p3 {
+    color: rgba(255, 255, 255, 0.512);
+}
+
+#p4 {
+    margin-top: -15px;
+}
+
+#p5 {
+    margin-top: -15px;
+}
+
+.p6 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    font-size: 23px;
+}
+
+
+#txt1 {
+    margin-left: 70px;
+}
+
+
+#txt2 {
+    margin-left: 90px;
+}
+
+.below {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: small;
+    display: flex;
+    flex-direction: row;
+}
+
+#txt3 {
+    margin-top: -15px;
+    
+}
+
+
+#txt4 {
+    margin-left: 42px;
+    margin-top: -15px;
+
+}
+
+#txt5 {
+    margin-left: 50px;
+    margin-top: -15px;
+
+}
+
+
+.second {
+    height: 420px;
+    width: 450px;
+}
+
+#img {
+    height: 420px;
+    width: 450px;
+    
+}
