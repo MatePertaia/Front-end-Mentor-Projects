@@ -1,0 +1,131 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+* {
+     font-family: "Outfit", sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(275, 100%, 97%);
+    height: 1000px;
+    width: 100%;
+       
+}
+
+#img1 {
+    width: 100%;
+    
+}
+
+.inscont {
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 500px;
+}
+
+#star {
+    height: 35px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.container *:not(div) {
+  margin-left: 25px;
+}
+
+#faqs {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    margin: 0;
+    margin-top: 18px;
+
+}
+
+.text1 {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.text2 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+}
+
+.text3 {
+    width: 100%;
+    height: 100px;
+}
+
+#fmo {
+    color: grey;
+}
+
+
+#minus {
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.text4 {
+    display: flex;
+    flex-direction: row;
+}
+
+
+#plastika {
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+#ifmf {
+    margin-right: 180px;
+    
+}
+
+.text5 {
+    margin-top: 25px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+#spl {
+    height: 35px;
+}
+
+#ciu {
+    margin-right: 5px;
+    color: black;
+}
+
+.text6 {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+#lst {
+    height: 35px;
+}
+
+#hci {
+    margin-right: 45px;
+}
